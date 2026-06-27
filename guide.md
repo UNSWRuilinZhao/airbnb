@@ -309,7 +309,7 @@ You are welcome to modify the `npm run test` command by updating the `test` scri
 
 ### 3.1. The Frontend
 
-Navigate to the `frontend` folder and run `Enzyme ` to install all of the dependencies necessary to run the ReactJS app. Then run `npm start` to start the ReactJS app.
+Navigate to the `frontend` folder and run `npm install` to install all of the dependencies necessary to run the ReactJS app. Then run `npm start` to start the ReactJS app.
 
 You will not need to do any meannigful work in the backend. However, some properties that the backend takes in are defined as blank objects. These are objects that can be defined by you, as the backend will simply store your object on some routes and then return it to you on other routes (i.e. the backend doesn't need to understand the schema of some objects you pass it).
 
